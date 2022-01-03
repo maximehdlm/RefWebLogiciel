@@ -1,0 +1,42 @@
+[
+    {
+      "task_name": "CRUD",
+      "task_description": "Faire un CRUD pour la table Project",
+      "task_time": 120,
+      "task_status": "todoTask",
+      "task_xp": 1,
+      "fk_id_task_type": 1
+    },
+    {
+        "task_name": "CRUD",
+        "task_description": "Faire un CRUD pour la table Task",
+        "task_time": 120,
+        "task_status": "todoTask",
+        "task_xp": 3,
+        "fk_id_task_type": 2
+      },
+      {
+        "task_name": "CRUD",
+        "task_description": "Faire un CRUD pour la table User",
+        "task_time": 40,
+        "task_status": "todoTask",
+        "task_xp": 4,
+        "fk_id_task_type": 3
+      },
+      {
+        "task_name": "FRONT type todo",
+        "task_description": "Faire un front type todo comme trello",
+        "task_time": 60,
+        "task_status": "todoTask",
+        "task_xp": 1,
+        "fk_id_task_type": 1
+      },
+      {
+        "task_name": "Logique métier ",
+        "task_description": "Rajouter logique métie. Dispatch des task et accepte task",
+        "task_time": 180,
+        "task_status": "doneTask",
+        "task_xp": 4,
+        "fk_id_task_type": 3
+      }
+  ]

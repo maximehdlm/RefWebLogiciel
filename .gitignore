@@ -1,0 +1,13 @@
+.DS_Store
+project.lock.json
+
+# Visual Studio Code
+.vscode
+launch.json
+tasks.json
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
